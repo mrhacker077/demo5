@@ -1,2 +1,2 @@
 "my name is akash"
-"im from switzerlad"
+"im from switzerland"
